@@ -40,3 +40,9 @@ temp = a
 a = b
 b = temp
 print(a,b) # O/P is 10 5 i.e, values have been swaped using a third variable.
+
+#best method to write a program is giving a meaningfull variable name
+pi=3.14
+radius=5
+area=pi*(radius**2)  #instead of using a and b like dummy variables meaningfull variable names are given
+
