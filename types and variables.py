@@ -1,3 +1,4 @@
+#Lecture 1 contents
 #-> comment line
 # type() is the keyword which returns type of the object
 
